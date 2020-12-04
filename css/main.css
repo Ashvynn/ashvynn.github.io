@@ -1,1 +1,5 @@
-
+#myVideo {
+  position: absolute;
+  top: 45%;
+  left: 40%;
+}
