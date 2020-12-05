@@ -8,6 +8,14 @@ body{margin:0px; overflow:hidden}
 
 .container { position:relative; }
 
+.header {
+  padding: 60px;
+  text-align: left;
+  background: #1abc9c;
+  color: white;
+  font-size: 30px;
+}
+
 .overlay1 {
     border: 7px solid white;
     border-radius:3px;
