@@ -13,7 +13,7 @@ body{margin:0px; overflow:hidden}
   padding: 20px;
   line-height: 0px;
   text-align: left;
-  background: #423fa96b;
+  background: rgba(100,100, 230, 0.3);
   color: white;
   font-size: 20px;
   font-family:verdana light;
