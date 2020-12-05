@@ -3,17 +3,20 @@ body{margin:0px; overflow:hidden}
 #myVideo {
   width:100vw;
   height:100vh;
-  object-fit:cover
+  object-fit:cover;
 }
 
-.container { position:relative; }
+.container { position:relative; transform: translate(0, -93px); z-index:-1; }
+
 
 .header {
-  padding: 60px;
+  padding: 20px;
+  line-height: 0px;
   text-align: left;
-  background: #1abc9c;
+  background: #423fa96b;
   color: white;
-  font-size: 30px;
+  font-size: 20px;
+  font-family:verdana light;
 }
 
 .overlay1 {
