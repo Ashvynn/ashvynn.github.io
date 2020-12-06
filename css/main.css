@@ -6,7 +6,7 @@ body{margin:0px; overflow:hidden}
   object-fit:cover;
 }
 
-.container { position:relative; transform: translate(0, -93px); z-index:-1; }
+.container { position:relative; transform: translate(0, -80px); z-index:-1; }
 
 
 .header {
@@ -15,7 +15,7 @@ body{margin:0px; overflow:hidden}
   text-align: left;
   background: rgba(100,100, 230, 0.3);
   color: white;
-  font-size: 20px;
+  font-size: 15px;
   font-family:verdana light;
 }
 
